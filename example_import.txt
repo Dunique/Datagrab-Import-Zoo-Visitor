@@ -1,2 +1,2 @@
-"username";"naam";"personeelsnummer";"geboorte_datum";"functie";"password";"email"
-50132;"Abubakar Barry";50132;01-01-1983;"int";01-01-1983;"50132@dros.nl"
+"username";"screen_naam";"password";"email"
+"j.doe";"John Doe";"password_heel_moeilijk";"email@email.com"
