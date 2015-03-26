@@ -1,0 +1,2 @@
+"username";"naam";"personeelsnummer";"geboorte_datum";"functie";"password";"email"
+50132;"Abubakar Barry";50132;01-01-1983;"int";01-01-1983;"50132@dros.nl"
